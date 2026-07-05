@@ -6,10 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "stockssocks.aternos.me
-",
+    "ip": "stockssocks.aternos.me",
     "port": 34893,
-    "version": "26.1.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
